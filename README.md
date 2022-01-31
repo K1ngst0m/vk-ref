@@ -1,6 +1,6 @@
 # VK REF
 
-vulkan learning resources references
+vulkan learning resources references (work-in-progress)
 
 ## daily ref
 
